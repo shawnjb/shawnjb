@@ -8,4 +8,4 @@ return {
 }
 ```
 
-I'm always looking to expand my skills, give me a good reason to help you out! I'm looking for development opporunities.
+I'm always looking to expand my skills, give me a good reason to help you out! I'm looking for development opportunities.
