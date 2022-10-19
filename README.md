@@ -4,7 +4,11 @@ My name is Shawn. I'm a general programmer who interests primarily in Lua, but I
 
 ## Statistics
 
-[![obtusity's GitHub stats](https://github-readme-stats.vercel.app/api?username=obtusity)](https://github.com/obtusity/github-readme-stats)
+[![obtusity's GitHub stats](https://github-readme-stats.vercel.app/api?username=obtusity)](https://github.com/anuraghazra/github-readme-stats)
+
+## Top Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obtusity)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
 <summary>
