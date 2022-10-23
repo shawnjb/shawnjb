@@ -10,6 +10,10 @@ My name is Shawn. I'm a general programmer who interests primarily in Lua, but I
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obtusity)](https://github.com/anuraghazra/github-readme-stats)
 
+## Discord Presence
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1020933580517548093)](https://discord.com/users/1020933580517548093)
+
 <details>
 <summary>
 More Information
