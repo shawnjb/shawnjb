@@ -14,21 +14,19 @@ My name is Shawn. I'm a general programmer who interests primarily in Lua, but I
 <summary>
 More Information
 </summary>
-
-## Skill-set
-
-* [Lua](https://lua.org/)
-* [Luau](https://luau-lang.org/)
-* [Roblox Luau](https://create.roblox.com/docs)
-* [LuaRocks](https://luarocks.org/)
-* [Garry's Mod Lua](https://wiki.facepunch.com/gmod)
-* [Markdown](https://en.wikipedia.org/wiki/Markdown)
-* [HTML](https://www.w3.org/html/)
-* [CSS](https://www.w3.org/Style/CSS)
-* [Git](https://git-scm.com/)
-* [Git for Windows](https://gitforwindows.org/)
-* [Python](https://www.python.org/)
-* [JavaScript](https://www.javascript.com/)
-* [TypeScript](https://www.typescriptlang.org/)
-
+<h2>Skill-set</h2>
+<ul>
+<li>Lua</li>
+<li>LuaRocks</li>
+<li>Luau</li>
+<li>Roblox API</li>
+<li>Markdown</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>Git</li>
+<li>Git for Windows</li>
+<li>Python</li>
+<li>JavaScript</li>
+<li>TypeScript</li> 
+</ul>
 </details>
