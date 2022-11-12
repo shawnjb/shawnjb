@@ -1,6 +1,6 @@
 # Hi, everyone! 👋
 
-My name is Shawn. I'm a general programmer who interests primarily in Lua, but I am open to learning new tools. I cherish open source projects and am currently working on contributing to other projects in order to gain more experience with other tools.
+My name is Shawn. I'm a general programmer who interests in various tools & platforms. I cherish open source projects and am currently working on contributing to other projects in order to gain more experience with other tools.
 
 ## Statistics
 
