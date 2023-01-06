@@ -1,10 +1,10 @@
-# Hi, everyone! 👋
+# Hello! 👋 I'm Shawn
 
-My name is Shawn. I'm a general programmer who interests in various tools & platforms. I cherish open source projects and am currently working on contributing to other projects in order to gain more experience with other tools.
+I'm a general programmer with a range of interests in different tools and platforms. I'm passionate about open-source projects and am always looking for ways to contribute and gain more experience with new tools.
 
-## Statistics
+## Stats
 
-[![obtusity's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnjb)](https://github.com/anuraghazra/github-readme-stats)
+[![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnjb)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top Languages
 
